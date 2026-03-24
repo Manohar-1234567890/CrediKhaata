@@ -1,2 +1,23 @@
 # CrediKhaata
-CrediKhaata is a simple and user-friendly React.js web application designed for small shopkeepers to manage customer credit (loans) and repayments efficiently.  This application helps shop owners keep track of outstanding balances, monitor overdue payments, and maintain a clear record of all credit transactions in one place.
+
+CrediKhaata is a simple and user-friendly React.js web application designed for small shopkeepers to manage customer credit (loans) and repayments efficiently.
+
+## 🚀 Features
+- Add and manage customers
+- Record credit sales (loans)
+- Track repayments
+- View outstanding balances
+- Highlight overdue payments
+- Dashboard overview
+
+## 🛠 Tech Stack
+- React JS (Hooks)
+- Context API
+- CSS (Custom UI)
+- Vite
+
+## 📦 Installation
+
+```bash
+npm install
+npm run dev
